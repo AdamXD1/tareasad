@@ -27,7 +27,6 @@ public class Punto {
         return x == otroPunto.x && y == otroPunto.y;
     }
 
-
     public int getX() {
         return x;
     }
